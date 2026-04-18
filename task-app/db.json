@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "123",
+      "password": "$2b$10$RZD.mj2l9iSjf3QLgmvo5O3D0PIFz19CnvuXqvRGRMvpJ5THG3YaC"
+    },
+    {
+      "username": "1234",
+      "password": "$2b$10$buwnDOwU6a1hO3p2akEJ.uH//3lvH2dvXNWIQCz2OzPsiVDGNyUUq"
+    }
+  ],
+  "tasks": [
+    {
+      "text": "",
+      "owner": "123",
+      "id": 1774809985795
+    },
+    {
+      "text": "",
+      "owner": "123",
+      "id": 1774809987708
+    },
+    {
+      "text": "wake up",
+      "owner": "123",
+      "id": 1774809994050
+    },
+    {
+      "text": "wake up",
+      "owner": "1234",
+      "id": 1774810055208
+    },
+    {
+      "text": "brush",
+      "owner": "1234",
+      "id": 1774810063916
+    }
+  ]
+}
